@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346267673474",
+    "project_id": "coilfiretest",
+    "storage_bucket": "coilfiretest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346267673474:android:843cbc52083b0564a2a59b",
+        "android_client_info": {
+          "package_name": "com.artemis.coilfiretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346267673474-779egu9da132clkq74o0jm9a061gb85v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artemis.coilfiretest",
+            "certificate_hash": "df574c45b5ffe2fe30bbdc9b4eaed5a0b4cd4eb5"
+          }
+        },
+        {
+          "client_id": "346267673474-0vlv3k3f7fpd4vi4n6bk8jr9qch95703.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4JERqM3T-E0BF1fpAly7AklK3CN3sJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346267673474-0vlv3k3f7fpd4vi4n6bk8jr9qch95703.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
