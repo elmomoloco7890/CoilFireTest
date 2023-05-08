@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CoilFireTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coil_header_txt">Coil Image Here</string>
+    <string name="coil_name_txt">Name of Image</string>
+    <string name="coil_btn_txt">Go Back</string>
+    <string name="coil_launch_btn_txt">Launch to Main</string>
 </resources>

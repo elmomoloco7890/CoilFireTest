@@ -3,6 +3,8 @@
     <style name="Base.Theme.CoilFireTest" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/coil_font_family</item>
+        <item name="fontFamily">@font/coil_font_family</item>
     </style>
 
     <style name="Theme.CoilFireTest" parent="Base.Theme.CoilFireTest" />

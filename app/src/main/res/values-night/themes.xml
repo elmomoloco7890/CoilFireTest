@@ -3,5 +3,9 @@
     <style name="Base.Theme.CoilFireTest" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:fontFamily">@font/coil_font_family</item>
+        <item name="fontFamily">@font/coil_font_family</item>
+        <!--<item name="buttonStyle"></item>-->
     </style>
+
 </resources>
